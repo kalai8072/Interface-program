@@ -6,5 +6,7 @@ public interface Employee {
 	public void address ();
 	public void workdesign ();
 	public void salery ();
+	public void employeeID();
+	
 
 }
